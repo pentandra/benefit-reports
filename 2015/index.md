@@ -5,6 +5,7 @@ description: >
 kind: benefit-report
 tagline: >
   The beginning of a great journey.
+wip: true
 ---
 
 # Letter from our co-founders
